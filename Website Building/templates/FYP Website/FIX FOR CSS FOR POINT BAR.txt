@@ -1,0 +1,22 @@
+.u-section-1 .u-group-1 {
+  width: 229px;
+  min-height: 32px;
+  height: auto;
+  margin: -42px auto 11px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.25rem;
+  margin: 0 0 0 157px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: -32px 74px 0 9px;
+}
